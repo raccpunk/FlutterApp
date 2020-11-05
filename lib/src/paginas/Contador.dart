@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:toast/toast.dart';
+// import 'package:toast/toast.dart';
 
 class Contador extends StatefulWidget {
   @override
@@ -8,6 +8,7 @@ class Contador extends StatefulWidget {
 
 class _ContadorState extends State<Contador> {
   @override
+  // ignore: override_on_non_overriding_member
   int _contador = 0;
   @override
   Widget build(BuildContext context) {

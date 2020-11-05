@@ -51,6 +51,13 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
   - imagenes/nirvana.png
+  - imagenes/matchme.png
+  - imagenes/fideos.png
+  - imagenes/hamburguesas.png
+  - imagenes/tacos.png
+  - imagenes/ensaladas.png
+  - imagenes/sushi.png
+  - imagenes/fondo.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
