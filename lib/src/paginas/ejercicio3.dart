@@ -61,15 +61,12 @@ class _Disenio3State extends State<Disenio3> {
     return Padding(
       padding: const EdgeInsets.all(5.0),
       child: FlatButton(
-          onPressed: () => {},
-          child: SizedBox(
-            child: Image.asset(
-              image,
-              fit: BoxFit.fill,
-            ),
-            width: 350,
-            height: 100,
-          )),
+        onPressed: () => {},
+        child: Image.asset(
+          image,
+          fit: BoxFit.fill,
+        ),
+      ),
     );
   }
 }
