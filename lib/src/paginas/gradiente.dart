@@ -22,10 +22,10 @@ class _GradienteState extends State<Gradiente> {
             gradient: LinearGradient(
               begin: Alignment.topRight,
               end: Alignment.bottomLeft,
-              // colors: [
-              //   Colors.blue,
-              //   Colors.red,
-              // ],
+              colors: [
+                Colors.blue,
+                Colors.red,
+              ],
             ),
           ),
           child: Center(
