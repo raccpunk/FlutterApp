@@ -7,12 +7,13 @@
         "activityBar.inactiveForeground": "#15202b99",
         "activityBarBadge.background": "#3e7fc1",
         "activityBarBadge.foreground": "#e7e7e7",
-        "statusBar.background": "#8ac650",
+        "statusBar.background": "#8ac74f",
         "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#70ab38",
-        "titleBar.activeBackground": "#8ac650",
+        "statusBarItem.hoverBackground": "#70ac37",
+        "titleBar.activeBackground": "#8ac74f",
         "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#8ac65099",
+        "titleBar.inactiveBackground": "#8ac74f99",
         "titleBar.inactiveForeground": "#15202b99"
     },
+    "peacock.color": "#8ac74f",
 }

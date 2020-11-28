@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hello_world/src/paginas/Examen.dart';
 import 'package:hello_world/src/paginas/Suma.dart';
 import 'package:hello_world/src/paginas/alarm.dart';
 //import 'package:hello_world/src/paginas/Contador.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
       routes: {
-        '/': (context) => Suma(),
+        '/': (context) => ExamenFinal(),
         '/Disenio': (context) => Disenio(),
         '/Gradiente': (context) => Gradiente(),
       },

@@ -50,6 +50,12 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
   assets:
+  - imagenes/flecha-hacia-arriba.png
+  - imagenes/teatro.png
+  - imagenes/mascota.png
+  - imagenes/gato.png
+  - imagenes/artista.png
+  - imagenes/favoritos.png
   - imagenes/ubicacion2.png
   - imagenes/nirvana.png
   - imagenes/matchme.png
